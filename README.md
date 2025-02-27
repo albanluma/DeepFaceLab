@@ -235,3 +235,12 @@ Register github account and push "Star" button.
 
 
 </table>
+table align="center" border="0">
+
+<tr><td colspan=2 align="center">
+
+# DeepFaceLab  
+
+<a href="https://arxiv.org/abs/2005.05535">
+
+<img src="https://static.arxiv.org/static/browse/0.3.0/images/icons/f
